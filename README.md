@@ -3,14 +3,14 @@
 ###
 
 <div align="center">
-  <img height="999" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNlNGNseGQ4ODRzN2prMzY2d292cHpsaTlkMDVkbWgxemp0NXp0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
+  <img height="555" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNlNGNseGQ4ODRzN2prMzY2d292cHpsaTlkMDVkbWgxemp0NXp0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 </div>
 
 _Welcome to my cozy digital corner. There are a few stories (in code) that I am currently cooking up. Hope you enjoy your visit._ ☕
 
 ###
 
-<h4 align="left">🛠️ Programming languages ​​that I have learned and mastered...</h4>
+<h2 align="left">🛠️ Programming languages ​​that I have learned and mastered...</h2>
 <div align="left">
   <a href="#" target="_blank"><img alt="C" height="26" src="https://img.shields.io/badge/C-100000?style=flat&logo=c&logoColor=white&labelColor=36393d&color=000000"/></a>
   <a href="#" target="_blank"><img alt="C++" height="26" src="https://img.shields.io/badge/C++-100000?style=flat&logo=cplusplus&logoColor=white&labelColor=36393d&color=000000"/></a>
@@ -49,7 +49,7 @@ _Welcome to my cozy digital corner. There are a few stories (in code) that I am 
 
 ###
 
-<h4 align="left">💻 Operating system and tools i use...</h4>
+<h2 align="left">💻 Operating system and tools i use...</h2>
 <div align="left">
   <a href="#" target="_blank"><img alt="Android" height="26" src="https://img.shields.io/badge/ANDROID-100000?style=flat&logo=android&logoColor=white&labelColor=36393d&color=000000"/></a>
   <a href="#" target="_blank"><img alt="iOS" height="26" src="https://img.shields.io/badge/IOS-100000?style=flat&logo=apple&logoColor=white&labelColor=36393d&color=000000"/></a>
@@ -88,7 +88,7 @@ _Welcome to my cozy digital corner. There are a few stories (in code) that I am 
 
 ###
 
-<h4 align="left">🤖 Artificial Intelligence i use...</h4>
+<h2 align="left">🤖 Artificial Intelligence i use...</h2>
 <div align="left">
   <a href="#" target="_blank"><img alt="Claude" height="26" src="https://img.shields.io/badge/CLAUDE-100000?style=flat&logo=claude&logoColor=white&labelColor=36393d&color=000000"/></a>
   <a href="#" target="_blank"><img alt="ChatGPT" height="26" src="https://img.shields.io/badge/CHATGPT-100000?style=flat&logo=openai&logoColor=white&labelColor=36393d&color=000000"/></a>
@@ -118,7 +118,7 @@ _Welcome to my cozy digital corner. There are a few stories (in code) that I am 
 ##
 ###
 ###
-<h4 align="center">🎮 Play game with me</h4>
+<h2 align="center">🎮 Play game with me</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rrpbae/rrpbae/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rrpbae/rrpbae/output/pacman-contribution-graph.svg">

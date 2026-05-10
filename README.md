@@ -17,10 +17,8 @@ _Welcome to my cozy digital corner. There are a few stories (in code) that I am 
   <a href="#" target="_blank"><img alt="HTML5" height="26" src="https://img.shields.io/badge/HTML-100000?style=flat&logo=html5&logoColor=white&labelColor=36393d&color=000000"/></a>
   <a href="#" target="_blank"><img alt="CSS" height="26" src="https://img.shields.io/badge/CSS-100000?style=flat&logo=css&logoColor=white&labelColor=36393d&color=000000"/></a>
   <a href="#" target="_blank"><img alt="JavaScript" height="26" src="https://img.shields.io/badge/JAVASCRIPT-100000?style=flat&logo=javascript&logoColor=white&labelColor=36393d&color=000000"/></a>
-  <a href="#" target="_blank"><img alt="JSON" height="26" src="https://img.shields.io/badge/JSON-100000?style=flat&logo=json&logoColor=white&labelColor=36393d&color=000000"/></a>
   <a href="#" target="_blank"><img alt="Python" height="26" src="https://img.shields.io/badge/PYTHON-100000?style=flat&logo=python&logoColor=white&labelColor=36393d&color=000000"/></a>
   <a href="#" target="_blank"><img alt="Java" height="26" src="https://img.shields.io/badge/JAVA-100000?style=flat&logo=openjdk&logoColor=white&labelColor=36393d&color=000000"/></a>
-  <a href="#" target="_blank"><img alt="Go" height="26" src="https://img.shields.io/badge/GOLANG-100000?style=flat&logo=go&logoColor=white&labelColor=36393d&color=000000"/></a>
 </div>
 
 <!-- <div align="left">

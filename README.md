@@ -14,8 +14,6 @@ _Welcome to my cozy digital corner. There are a few stories (in code) that I am 
 <div align="left">
   <a href="#" target="_blank"><img alt="C" height="26" src="https://img.shields.io/badge/C-100000?style=flat&logo=c&logoColor=white&labelColor=36393d&color=000000"/></a>
   <a href="#" target="_blank"><img alt="C++" height="26" src="https://img.shields.io/badge/C++-100000?style=flat&logo=cplusplus&logoColor=white&labelColor=36393d&color=000000"/></a>
-  <a href="#" target="_blank"><img alt="HTML5" height="26" src="https://img.shields.io/badge/HTML-100000?style=flat&logo=html5&logoColor=white&labelColor=36393d&color=000000"/></a>
-  <a href="#" target="_blank"><img alt="CSS" height="26" src="https://img.shields.io/badge/CSS-100000?style=flat&logo=css&logoColor=white&labelColor=36393d&color=000000"/></a>
   <a href="#" target="_blank"><img alt="JavaScript" height="26" src="https://img.shields.io/badge/JAVASCRIPT-100000?style=flat&logo=javascript&logoColor=white&labelColor=36393d&color=000000"/></a>
   <a href="#" target="_blank"><img alt="Python" height="26" src="https://img.shields.io/badge/PYTHON-100000?style=flat&logo=python&logoColor=white&labelColor=36393d&color=000000"/></a>
   <a href="#" target="_blank"><img alt="Java" height="26" src="https://img.shields.io/badge/JAVA-100000?style=flat&logo=openjdk&logoColor=white&labelColor=36393d&color=000000"/></a>
